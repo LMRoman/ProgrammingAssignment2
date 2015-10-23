@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## JH R Programming Assignment 2  Week 3
 ## Caching the Inverse of a Matrix
 
@@ -43,8 +40,6 @@ makeCacheMatrix <- function(x = matrix()){
 
 
 ## ----------------------------------------------------
-## Write a short comment describing this function
-
 ## JH R Programming Assignment 2  Week 3
 ## Caching the Inverse of a Vector
 
